@@ -1,5 +1,5 @@
 - Hello, I'm Kevin.
-- I'm interested in listening to music and playing games time to time.
+- I'm interested in listening to music and playing games time to time. Also i watch a lot of anime and read some manga.
 - I'm currently learning how to program. Languages: SQL, HTML, CSS, JS
 - I'm not looking to collaborate with someone right now since i still need to learn a lot of things before i can work with someone.
 - 
