@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the Kevzone</h1>
+![catblush](https://user-images.githubusercontent.com/93846113/206032848-941ac49c-6c8e-48f8-aee4-564cd1ebb45a.png)<h1 align="center">Welcome to the Kevzone</h1>
 <h3 align="center">Just a lazy programmer.</h3>
 
 <h3 align="center">Languages and Tools:</h3>
