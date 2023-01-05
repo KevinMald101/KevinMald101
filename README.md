@@ -1,5 +1,5 @@
 <h1>Welcome to the Kevzone <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" height="50" width="50"/></h1>
-<img src="https://media.tenor.com/zMdZBjJ7gPkAAAAd/aesthetic-wallpaper.gif" height="400" width="700"/>
+<img src="https://media.tenor.com/zMdZBjJ7gPkAAAAd/aesthetic-wallpaper.gif" height="350" width="700"/>
 
 <h3>About Me</h3>
 <p>Hello, my name is Kevin and currently I fall into the category of a lazy programmer. At the moment I'm learning about different languages and making small projects with each one to increase my skill.</p>
