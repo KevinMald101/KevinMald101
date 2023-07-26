@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/zMdZBjJ7gPkAAAAd/aesthetic-wallpaper.gif" height="350" width="700"/>
 
 <h3>About Me</h3>
-<p>Hello, my name is Kevin and currently I'm a senior in highschool taking a web/dev class.</p>
+<p>Hello, my name is Kevin and currently I'm going to college.</p>
 
 
 <h3>Languages and Tools</h3>
