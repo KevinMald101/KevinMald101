@@ -1,9 +1,9 @@
 <h1>Welcome <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" height="50" width="50"/></h1>
-<img src="https://media.tenor.com/zMdZBjJ7gPkAAAAd/aesthetic-wallpaper.gif" height="350" width="700"/>
+<img src="https://raw.githubusercontent.com/KevinMald101/KevinMald101/main/images/Code.gif" height="350" width="700"/>
 
 <h3>About Me</h3>
 <p>It's your boi Kevin.</p>
-<p>Currently in college<p>
+<p>Currently in college</p>
 
 
 <h3>Languages and Tools</h3>
